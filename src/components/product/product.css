@@ -1,0 +1,20 @@
+.productList img{
+    width: 100%;
+    object-fit: cover;
+}
+.productList{
+    padding: 10px;
+    border: 1px solid gray;
+}
+.productList h5{
+    font-weight: bolder;
+    font-size: 22px;
+}
+.productList h5 p{
+    font-size: 19px;
+    font-weight: 400;
+    color: black;
+}
+.productList h5 p span{
+    cursor: pointer;
+}

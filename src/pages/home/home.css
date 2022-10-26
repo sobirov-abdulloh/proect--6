@@ -1,0 +1,9 @@
+.home .products_list{
+    display: grid;
+    grid-template-columns: repeat(3,auto);
+    grid-gap: 10px;
+    
+}
+.home{
+    padding: 20px;
+}

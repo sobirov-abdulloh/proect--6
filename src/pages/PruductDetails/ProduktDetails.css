@@ -1,0 +1,8 @@
+.pruductDetails .products_list{
+    display: grid;
+    grid-template-columns: repeat(3,auto);
+    grid-gap: 20px;
+    padding: 10px 30px;
+    
+}
+
